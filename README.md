@@ -8,11 +8,16 @@ Power BI | Excel | Tableau| Data Analysis | Data Visualization
 
 Key KPIs
 1.Overall Attrition Rate
+
 2.Department-wise Attrition
+
 3.Average Monthly Income
+
 4.Average Working Years
+
 5.Employee Satisfaction
-66.Work-Life Balance
+
+6.Work-Life Balance
 
 Key Insights
 Some common insights obtained from the analysis include:
